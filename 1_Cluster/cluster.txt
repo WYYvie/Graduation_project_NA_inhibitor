@@ -1,0 +1,21 @@
+Cluster 1 contains 16 molecules
+Cluster 2 contains 10 molecules
+Cluster 3 contains 8 molecules
+Cluster 4 contains 2 molecules
+Cluster 5 contains 2 molecules
+Cluster 6 contains 1 molecules
+
+Common structures for each cluster:
+Cluster 1 common structure SMILES: C1=C[C@@H](N2CCCCC2)CCC1
+Saved visualization for Cluster 1 to cluster_1_common_structure.png
+Cluster 2 common structure SMILES: C1=C[C@@H](N2CCCCC2)CCC1
+Saved visualization for Cluster 2 to cluster_2_common_structure.png
+Cluster 3 common structure SMILES: C1=C[C@@H](N2CCCCCC2)CCC1
+Saved visualization for Cluster 3 to cluster_3_common_structure.png
+Cluster 4 common structure SMILES: C1=C[C@@H](N2CCCCC2)CCC1
+Saved visualization for Cluster 4 to cluster_4_common_structure.png
+Cluster 5 common structure SMILES: C1=C[C@@H](N2CCCCC2)CCC1
+Saved visualization for Cluster 5 to cluster_5_common_structure.png
+Cluster 6 common structure SMILES: CCOCC1CCCN([C@@H]2C=C(C(=O)O)C[C@H](N)[C@H]2NC(C)=O)C1
+Saved visualization for Cluster 6 to cluster_6_common_structure.png
+Number of common structure SMILES output: 6
