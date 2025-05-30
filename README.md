@@ -5,17 +5,19 @@
 ## Docking
 该部分的csv文件列出了用于对接的分子，Autodock_Vina.ipynb文件用于在Google colab中进行批量化对接
 ## Train/Predict
-本部分在anaconda中进行
-创建虚拟环境并安装Chemprop
-安装的具体细节参考chempropv2官方文档：https://chemprop.readthedocs.io/en/main/installation.html
-'''
+### 在 Anaconda 中创建虚拟环境并安装 Chemprop
+本部分在 Anaconda 中进行。创建虚拟环境并安装 Chemprop，安装的具体细节可参考 Chemprop v2 官方文档：  
+[https://chemprop.readthedocs.io/en/main/installation.html](https://chemprop.readthedocs.io/en/main/installation.html)
+```bash
 conda create -n chemprop python=3.11
 conda activate chemprop
 pip install chemprop
-'''
-运行run_train.bat 文件和 run_test.bat 文件,在anaconda prompt中运行
-'''
+```
+### 运行 `run_train.bat` 和 `run_test.bat` 文件
+在 **Anaconda Prompt** 中依次运行以下命令：
+```bash
 run_train.bat
-'''
+run_test.bat
+```
 ## MCTS
 MTCS.ipynb 文件用于分析Top 10 分子，clean.ipynb用于将结果转换为标准形式，并统计出现次数
